@@ -966,3 +966,13 @@ It’s a **smart coffee shop app** where:
 ![sequence-diagram-1](assets/deliverable_1/sequence-diagram-4.png)
 ![sequence-diagram-1](assets/deliverable_1/sequence-diagram-5.png)
 ![sequence-diagram-1](assets/deliverable_1/sequence-diagram-6.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-7.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-8.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-9.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-10.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-11.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-12.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-13.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-14.png)
+![sequence-diagram-1](assets/deliverable_1/sequence-diagram-15.png)
+
