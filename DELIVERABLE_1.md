@@ -6,7 +6,7 @@ Staff can manage orders, monitor preparation progress, and keep an eye on invent
 
 By integrating ordering, inventory, and management together in one platform, the system makes everyday café operations simpler and more organized. It supports both routine tasks and broader oversight, helping the café run smoothly while providing a convenient and clear experience for everyone involved.
 
-### **In short…** 💡
+### **In short…**
 
 It’s a **smart coffee shop app** where:
 
@@ -14,6 +14,23 @@ It’s a **smart coffee shop app** where:
 - Staff **know what to make** and when
 - Manager **controls the menu and team**
 - Admin **keeps it safe, well-documented and updated**
+
+## 👥 About us - Team 6
+
+| Member | GitHub | Role |
+|--------|--------|------|
+| Eric Damian | [@devian02](https://github.com/devian02) | - |
+| Federico Newton | [@fede-oss](https://github.com/fede-oss) | - |
+| Anthony Stéphane Stassart | [@7o2y](https://github.com/7o2y) | - |
+| Hedi Tebourbi | [@RedPill47](https://github.com/RedPill47) | - |
+| Filip Zekonja | [@FilZek04](https://github.com/FilZek04) | - |
+
+[![GitHub](https://img.shields.io/badge/GitHub-@devian02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devian02)
+[![GitHub](https://img.shields.io/badge/GitHub-%40fede--oss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fede-oss)
+[![GitHub](https://img.shields.io/badge/GitHub-@7o2y-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7o2y)
+[![GitHub](https://img.shields.io/badge/GitHub-@RedPill47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RedPill47)
+[![GitHub](https://img.shields.io/badge/GitHub-@FilZek04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FilZek04)
+
 
 ---
 
