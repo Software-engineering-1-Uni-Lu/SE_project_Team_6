@@ -20,3 +20,13 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+I'
+### Angular coffee-shop-app ###
+
+# compiled output
+coffee-shop-app/dist
+coffee-shop-app/tmp
+coffee-shop-app/out-tsc
+
+# Node modules
+coffee-shop-app/node_modules
